@@ -13,7 +13,7 @@ El fork permite tener una versión propia del contenido.
 
 # [Clone](ciclo/clone.md)
 
-Con clone obtines una copia del repositorio remoto.
+Con clone obtienes una copia del repositorio remoto.
 
 # [Branch](ciclo/branch.md)
 
