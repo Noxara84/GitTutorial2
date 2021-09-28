@@ -1,3 +1,3 @@
 Pasos para hacer un Fork
 
-![Alt Text](./Fork.gif)
+![Alt Text](./fork.gif)
